@@ -1,0 +1,12 @@
+{
+    "?" : "Null safety (tipoDeDato? nombreDeVariable;)",
+    "!" : "Negacion if(!variable)",
+    "=" : "Asignacion",
+    "==" : "Comparacion simple",
+    "===" : "Comparacion completa",
+    "!=" : "Diferente de",
+    "required" : "Obligatoriamente hay que enviar los parametros requeridos"
+    
+
+
+}
